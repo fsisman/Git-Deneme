@@ -5,3 +5,5 @@ Test branch line edit.
 Test branch line edit. 2
 
 Main line added. 
+
+Test Conflict behaivor 
